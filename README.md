@@ -112,7 +112,7 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermediniz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=22c55e&text_color=ffffff" 
+    src="https://github-readme-stats.vercel.app/api?username=DinizGui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=22c55e&text_color=ffffff" 
     alt="GitHub Stats - Guilherme"
     height="160"
   />
@@ -120,7 +120,7 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermediniz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=ffffff" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinizGui&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=ffffff" 
     alt="Linguagens mais usadas"
     height="160"
   />
@@ -128,7 +128,7 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=guilhermediniz&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f97316&currStreakLabel=ffffff" 
+    src="https://streak-stats.demolab.com?user=DinizGui&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f97316&currStreakLabel=ffffff" 
     alt="GitHub Streak"
     height="150"
   />
