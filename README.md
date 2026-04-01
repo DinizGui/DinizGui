@@ -32,7 +32,6 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
 
 - 🎯 **Stack moderna** com React, Next.js, Node.js e .NET Core  
 - 🧩 Experiência com **APIs REST, integrações e automações**
-- 📊 Atuação com **emissão de NF-e / NFS-e, controle de estoque, ordens de serviço e dashboards administrativos**
 - 🚀 Buscando sempre **código limpo, escalável e com boa experiência de usuário**
 
 ---
@@ -88,7 +87,6 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
 </div>
 
 - 🧾 **Sistemas de negócio**
-  - Emissão de **NF-e e NFS-e**
   - **Controle de estoque** e movimentações
   - **Ordens de serviço** e fluxos operacionais
 
