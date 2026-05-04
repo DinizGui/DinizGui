@@ -1,9 +1,14 @@
 <!-- PROFILE HEADER -->
 <div align="center">
-  
+
+  <!-- Visitor badge -->
+  <img src="https://komarev.com/ghpvc/?username=DinizGui&color=00D8FF&style=for-the-badge&label=VISITANTES" alt="Visitantes" />
+
+  <br/><br/>
+
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Diniz+👋;Desenvolvedor+Full+Stack;Construindo+experi%C3%AAncias+digitais+modernas+e+escal%C3%A1veis" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Diniz+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Construindo+experi%C3%AAncias+digitais+modernas+e+escal%C3%A1veis" alt="Typing SVG" />
+
   <br/>
 
   <!-- Nome e título -->
@@ -24,13 +29,24 @@
 
 ---
 
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DinizGui/DinizGui/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DinizGui/DinizGui/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/DinizGui/DinizGui/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 <div align="center">
   <h2>✨ Sobre mim</h2>
 </div>
 
 Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, construindo soluções completas do front ao back.
 
-- 🎯 **Stack moderna** com React, Next.js, Node.js e .NET Core  
+- 🎯 **Stack moderna** com React, Next.js, Node.js e .NET Core
 - 🧩 Experiência com **APIs REST, integrações e automações**
 - 🚀 Buscando sempre **código limpo, escalável e com boa experiência de usuário**
 
@@ -65,6 +81,7 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
 ### Banco de Dados & ORM
 
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=F29111" alt="MySQL" />
   <img src="https://img.shields.io/badge/Prisma%20ORM-1A202C?style=for-the-badge&logo=prisma&logoColor=2DCEFF" alt="Prisma ORM" />
 </p>
@@ -109,24 +126,21 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
 </div>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DinizGui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=22c55e&text_color=ffffff" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DinizGui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=22c55e&text_color=ffffff"
     alt="GitHub Stats - Guilherme"
     height="160"
   />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinizGui&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=ffffff" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinizGui&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=ffffff"
     alt="Linguagens mais usadas"
     height="160"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=DinizGui&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f97316&currStreakLabel=ffffff" 
+  <img
+    src="https://streak-stats.demolab.com?user=DinizGui&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f97316&currStreakLabel=ffffff"
     alt="GitHub Streak"
     height="150"
   />
