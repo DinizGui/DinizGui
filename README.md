@@ -7,7 +7,7 @@
   <br/><br/>
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Diniz+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Construindo+experi%C3%AAncias+digitais+modernas+e+escal%C3%A1veis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Diniz+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Solu%C3%A7%C3%B5es+digitais+modernas+e+escal%C3%A1veis" alt="Typing SVG" />
 
   <br/>
 
