@@ -2,26 +2,26 @@
 <div align="center">
 
   <!-- Visitor badge -->
-  <img src="https://komarev.com/ghpvc/?username=DinizGui&color=00D8FF&style=for-the-badge&label=VISITANTES" alt="Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=DinizGui&color=00D8FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
 
   <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+Diniz+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Solu%C3%A7%C3%B5es+digitais+modernas+e+escal%C3%A1veis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Guilherme+Diniz+%F0%9F%91%8B;Full+Stack+Developer;Building+modern%2C+scalable+web+applications" alt="Typing SVG" />
 
   <br/>
 
-  <!-- Nome e título -->
+  <!-- Name and title -->
   <h1>Guilherme Diniz</h1>
-  <h3>Desenvolvedor Full Stack • React • Node.js • .NET</h3>
+  <h3>Full Stack Developer • React · Node.js · .NET</h3>
 
-  <!-- Badges principais -->
+  <!-- Main badges -->
   <p>
     <img src="https://img.shields.io/badge/Full%20Stack-Developer-00D8FF?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" />
     <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=1A1A1A" alt="React" />
     <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <a href="https://www.linkedin.com/in/guilherme-diniz-93b090248/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
@@ -32,29 +32,29 @@
 <!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DinizGui/DinizGui/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DinizGui/DinizGui/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/DinizGui/DinizGui/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DinizGui/DinizGui/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DinizGui/DinizGui/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/DinizGui/DinizGui/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <h2>✨ Sobre mim</h2>
+  <h2>✨ About Me</h2>
 </div>
 
-Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, construindo soluções completas do front ao back.
+I'm a **Full Stack Developer** focused on building **modern web applications end to end** — from intuitive, responsive interfaces to robust, well-structured back-end services.
 
-- 🎯 **Stack moderna** com React, Next.js, Node.js e .NET Core
-- 🧩 Experiência com **APIs REST, integrações e automações**
-- 🚀 Buscando sempre **código limpo, escalável e com boa experiência de usuário**
+- 🎯 Working across a modern stack: **React, Next.js, Node.js, and .NET Core**
+- 🧩 Experienced with **REST APIs, system integrations, and automation**
+- 🚀 Committed to **clean, scalable code** and a great user experience
 
 ---
 
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
-  <p>Principais tecnologias que utilizo no dia a dia.</p>
+  <p>The core technologies I work with day to day.</p>
 </div>
 
 ### Front-end
@@ -75,10 +75,10 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/APIs-REST-2563EB?style=for-the-badge" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-### Banco de Dados & ORM
+### Databases & ORM
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -86,7 +86,7 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
   <img src="https://img.shields.io/badge/Prisma%20ORM-1A202C?style=for-the-badge&logo=prisma&logoColor=2DCEFF" alt="Prisma ORM" />
 </p>
 
-### Ferramentas & DevOps
+### Tools & DevOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -99,41 +99,41 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
 ---
 
 <div align="center">
-  <h2>📌 Projetos & Experiência Prática</h2>
-  <p>Alguns tipos de sistemas e soluções com que já trabalhei.</p>
+  <h2>📌 What I Build</h2>
+  <p>The kinds of systems and solutions I've delivered.</p>
 </div>
 
-- 🧾 **Sistemas de negócio**
-  - **Controle de estoque** e movimentações
-  - **Ordens de serviço** e fluxos operacionais
+- 🧾 **Business systems**
+  - Inventory control and stock movement tracking
+  - Service orders and operational workflows
 
-- 🧠 **Back-end e integrações**
-  - Criação de **APIs REST**
-  - **Integrações entre sistemas** e serviços externos
-  - Processos de **automação** para rotinas repetitivas
+- 🧠 **Back-end & integrations**
+  - REST API design and development
+  - Integrations between internal systems and third-party services
+  - Automation of repetitive operational routines
 
-- 📊 **Painéis e dashboards**
-  - **Dashboards administrativos** focados em métricas de negócio
-  - Interfaces modernas para acompanhamento e tomada de decisão
+- 📊 **Dashboards & admin panels**
+  - Administrative dashboards focused on business metrics
+  - Clean, modern interfaces for monitoring and decision-making
 
-> Sempre com foco em **performance**, **organização de código** e **boa experiência de uso**.
+> Always with an emphasis on **performance**, **well-organized code**, and a **great user experience**.
 
 ---
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <p>Um pouco da minha atividade aqui no GitHub.</p>
+  <p>A snapshot of my activity here on GitHub.</p>
 </div>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=DinizGui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=22c55e&text_color=ffffff"
-    alt="GitHub Stats - Guilherme"
+    alt="Guilherme's GitHub Stats"
     height="160"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinizGui&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=ffffff"
-    alt="Linguagens mais usadas"
+    alt="Most Used Languages"
     height="160"
   />
 </p>
@@ -149,13 +149,13 @@ Sou **Desenvolvedor Full Stack** com foco em **aplicações web modernas**, cons
 ---
 
 <div align="center">
-  <h2>📬 Contato</h2>
-  <p>Aberto para oportunidades, parcerias e novos desafios.</p>
+  <h2>📬 Get in Touch</h2>
+  <p>Open to interesting projects, collaboration, and new challenges.</p>
 
   <a href="https://www.linkedin.com/in/guilherme-diniz-93b090248/" target="_blank">
-    <img src="https://img.shields.io/badge/Conecte--se%20comigo%20no-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Guilherme Diniz" />
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Guilherme Diniz" />
   </a>
 
   <br/><br/>
-  <sub>Obrigado por visitar meu perfil! ⭐ Considere deixar uma estrela nos repositórios que você curtir.</sub>
+  <sub>Thanks for visiting my profile! ⭐ Feel free to star any repositories you find useful.</sub>
 </div>
