@@ -6,11 +6,6 @@
 
   <br/><br/>
 
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Guilherme+Diniz+%F0%9F%91%8B;Full+Stack+Developer;Building+modern%2C+scalable+web+applications" alt="Typing SVG" />
-
-  <br/>
-
   <!-- Name and title -->
   <h1>Guilherme Diniz</h1>
   <h3>Full Stack Developer • React · Node.js · .NET</h3>
@@ -25,17 +20,6 @@
     </a>
   </p>
 
-</div>
-
----
-
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DinizGui/DinizGui/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DinizGui/DinizGui/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/DinizGui/DinizGui/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
